@@ -1,0 +1,2 @@
+# IOT-based-smart-protection-system-for-railway-workers
+As our project is based on this current situation of the worker safety, hope this situation will not come again if it then our device is ready to tackle this kind of situation. Our main vision is to build a product which ensures the proper safety of railway track workers by notifying them about approaching train. The same idea can also be implemented at unmanned crossings that could prevent numerous accidents. In this project we are using ultrasonic sensor, ardiuno, GSM module for initialize it.
